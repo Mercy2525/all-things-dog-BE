@@ -1,0 +1,9 @@
+### This is my BE repo for my all dogs project
+
+You can view it under [here]()
+
+I used [this document](https://www.toolify.ai/ai-news/deploy-json-server-on-render-for-free-stepbystep-guide-814141) to deplop by db.json on render
+I changed my,
+_"dependencies": {
+"json-server": "^0.17.0"
+}_, to make sure it runs, then i run npm install after adding it
