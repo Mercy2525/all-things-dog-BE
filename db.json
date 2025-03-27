@@ -1,0 +1,60 @@
+{
+  "mbwa": [
+    {
+      "id": "1",
+      "name": "Buddy",
+      "url": "https://kindredpup.com/wp-content/uploads/2020/12/120161984_2674750696119514_875923304621930075_o-1024x1024.jpg",
+      "breed": "Labrador",
+      "age": "1 month old",
+      "location": "Eldoret"
+    },
+    {
+      "id": "2",
+      "name": "Max",
+      "url": "https://images.pexels.com/photos/7643259/pexels-photo-7643259.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "breed": "Golden Retriever",
+      "age": "3 month old",
+      "location": "Machakos"
+    },
+    {
+      "id": "3",
+      "name": "Luna",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZTPVZlsI--xH0Nq6NMYUkKGhfDyu-KgDlg&s",
+      "breed": "Husky",
+      "age": "2 month old",
+      "location": "Nairobi"
+    },
+    {
+      "id": "4",
+      "name": "Buddy",
+      "url": "https://images.pexels.com/photos/12646549/pexels-photo-12646549.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "breed": "Bulldog",
+      "age": "4 month old",
+      "location": "Kitengela"
+    },
+    {
+      "id": "fba5",
+      "url": "https://images.pexels.com/photos/333083/pexels-photo-333083.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Shelly",
+      "breed": "German Shepard",
+      "age": "3 months",
+      "location": "Kitengela"
+    },
+    {
+      "id": "0172",
+      "url": "https://images.pexels.com/photos/15798758/pexels-photo-15798758/free-photo-of-portrait-of-japanese-spitz.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Willow",
+      "breed": "Japanese Spitz",
+      "age": "3 months",
+      "location": "Naivasha"
+    },
+    {
+      "id": "5589",
+      "url": "https://images.pexels.com/photos/10122494/pexels-photo-10122494.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Tigre",
+      "breed": "Corgi",
+      "age": "1 year",
+      "location": "Karen"
+    }
+  ]
+}
